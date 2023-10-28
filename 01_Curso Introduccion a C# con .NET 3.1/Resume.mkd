@@ -4,4 +4,5 @@
     2. De la Bienvenida a un usuario existente
     3. Salir una vez que que hayan registrado 10 usuarios.
 
- 
+2. Usar List<string>
+3. Usar While/do-while/foreach
