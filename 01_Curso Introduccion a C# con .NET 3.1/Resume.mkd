@@ -1,0 +1,7 @@
+# Proyecto Restaurante
+1. Crear una aplicación de consola que:
+    1. Valide si es usuario existente o si se debe registrar.
+    2. De la Bienvenida a un usuario existente
+    3. Salir una vez que que hayan registrado 10 usuarios.
+
+ 

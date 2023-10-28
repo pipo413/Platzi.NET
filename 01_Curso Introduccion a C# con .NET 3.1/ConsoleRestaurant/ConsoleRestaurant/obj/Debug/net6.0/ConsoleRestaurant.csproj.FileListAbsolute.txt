@@ -1,0 +1,14 @@
+C:\Users\ntbkd\OneDrive\Escritorio\Projects\Platzi.NET\01_Curso Introduccion a C# con .NET 3.1\ConsoleRestaurant\ConsoleRestaurant\bin\Debug\net6.0\ConsoleRestaurant.exe
+C:\Users\ntbkd\OneDrive\Escritorio\Projects\Platzi.NET\01_Curso Introduccion a C# con .NET 3.1\ConsoleRestaurant\ConsoleRestaurant\bin\Debug\net6.0\ConsoleRestaurant.deps.json
+C:\Users\ntbkd\OneDrive\Escritorio\Projects\Platzi.NET\01_Curso Introduccion a C# con .NET 3.1\ConsoleRestaurant\ConsoleRestaurant\bin\Debug\net6.0\ConsoleRestaurant.runtimeconfig.json
+C:\Users\ntbkd\OneDrive\Escritorio\Projects\Platzi.NET\01_Curso Introduccion a C# con .NET 3.1\ConsoleRestaurant\ConsoleRestaurant\bin\Debug\net6.0\ConsoleRestaurant.dll
+C:\Users\ntbkd\OneDrive\Escritorio\Projects\Platzi.NET\01_Curso Introduccion a C# con .NET 3.1\ConsoleRestaurant\ConsoleRestaurant\bin\Debug\net6.0\ConsoleRestaurant.pdb
+C:\Users\ntbkd\OneDrive\Escritorio\Projects\Platzi.NET\01_Curso Introduccion a C# con .NET 3.1\ConsoleRestaurant\ConsoleRestaurant\obj\Debug\net6.0\ConsoleRestaurant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ntbkd\OneDrive\Escritorio\Projects\Platzi.NET\01_Curso Introduccion a C# con .NET 3.1\ConsoleRestaurant\ConsoleRestaurant\obj\Debug\net6.0\ConsoleRestaurant.AssemblyInfoInputs.cache
+C:\Users\ntbkd\OneDrive\Escritorio\Projects\Platzi.NET\01_Curso Introduccion a C# con .NET 3.1\ConsoleRestaurant\ConsoleRestaurant\obj\Debug\net6.0\ConsoleRestaurant.AssemblyInfo.cs
+C:\Users\ntbkd\OneDrive\Escritorio\Projects\Platzi.NET\01_Curso Introduccion a C# con .NET 3.1\ConsoleRestaurant\ConsoleRestaurant\obj\Debug\net6.0\ConsoleRestaurant.csproj.CoreCompileInputs.cache
+C:\Users\ntbkd\OneDrive\Escritorio\Projects\Platzi.NET\01_Curso Introduccion a C# con .NET 3.1\ConsoleRestaurant\ConsoleRestaurant\obj\Debug\net6.0\ConsoleRestaurant.dll
+C:\Users\ntbkd\OneDrive\Escritorio\Projects\Platzi.NET\01_Curso Introduccion a C# con .NET 3.1\ConsoleRestaurant\ConsoleRestaurant\obj\Debug\net6.0\refint\ConsoleRestaurant.dll
+C:\Users\ntbkd\OneDrive\Escritorio\Projects\Platzi.NET\01_Curso Introduccion a C# con .NET 3.1\ConsoleRestaurant\ConsoleRestaurant\obj\Debug\net6.0\ConsoleRestaurant.pdb
+C:\Users\ntbkd\OneDrive\Escritorio\Projects\Platzi.NET\01_Curso Introduccion a C# con .NET 3.1\ConsoleRestaurant\ConsoleRestaurant\obj\Debug\net6.0\ConsoleRestaurant.genruntimeconfig.cache
+C:\Users\ntbkd\OneDrive\Escritorio\Projects\Platzi.NET\01_Curso Introduccion a C# con .NET 3.1\ConsoleRestaurant\ConsoleRestaurant\obj\Debug\net6.0\ref\ConsoleRestaurant.dll
